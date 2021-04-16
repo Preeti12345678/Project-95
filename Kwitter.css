@@ -40,3 +40,24 @@ body{
 	font-size: 20px;
     top: 50px;
 }
+.input_div_message_page{
+	position: fixed;
+    bottom: 0px;
+    width: 100%;
+
+}
+.user_tick
+{
+	width:20px;
+}
+.h4Message
+{
+	padding-left:5px;color:grey;
+    color: white;
+}
+.name{
+    color: white;
+}
+
+
+
